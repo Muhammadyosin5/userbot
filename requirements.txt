@@ -1,0 +1,10 @@
+greenlet==2.0.2
+psycopg2-binary==2.9.5
+pyaes==1.6.1
+Pyrogram==2.0.99
+PySocks==1.7.1
+python-dotenv==0.21.1
+SQLAlchemy==2.0.4
+TgCrypto==1.2.5
+typing_extensions==4.5.0
+uvloop==0.17.0

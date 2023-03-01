@@ -1,0 +1,6 @@
+*.env
+env/
+sessions/
+__pycache__/
+db/__pycache__/
+
